@@ -1,7 +1,8 @@
 # Bem vindo ao meu perfil
 
 <div>
-<img height="180em" alt="vue" src="https://github-readme-stats.vercel.app/api?username=kaduhod&show_icons=true&theme=dark">
+  <img height="180em" alt="vue" src="https://github-readme-stats.vercel.app/api?username=kaduhod&show_icons=true&theme=dark">
+  <img height="180em" alt="vue" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaduhod&show_icons=true&theme=dark">
 </div>
   
 <div style="display: inline-block"><br>
