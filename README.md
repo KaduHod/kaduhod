@@ -1,5 +1,5 @@
 # Bem vindo ao meu perfil
-<picture>
+
 <div>
 <img height="180em" alt="vue" src="https://github-readme-stats.vercel.app/api?username=kaduhod&show_icons=true&theme=dark">
 </div>
