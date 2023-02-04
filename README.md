@@ -11,3 +11,5 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=KaduHod&show_icons=true" />
 </picture>
+ 
+<a href="https://github.com/kaduhod/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaduhod&layout=compact&theme=buefy&hide_border=true" /></a> 
