@@ -1,23 +1,45 @@
-### Stats
-<div style="width:100%;display: flex; align-items: center; justify-content:center;">
-  <img height="180em" alt="vue" src="https://github-readme-stats.vercel.app/api?username=kaduhod&show_icons=true&theme=dark">
-</div>
-  
-### Linguagens
-<div style="display: inline-block"><br>
- <img height="20" width="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  <img height="20" width="30" alt="nodejs" src="go.png">
-  <img height="20" width="30" alt="golang" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
-  <img height="20" width="30" alt="vue" src="vue.png">
-</div>
+<h1 align="center">Carlos Alberto Ribas Junior</h1>
+<p align="center">
+  <strong>Desenvolvedor de Software</strong> • Apaixonado por soluções escaláveis, integrações inteligentes e experiências digitais bem feitas.
+</p>
 
-### Redes sociais
-<div> 
-  <a href="https://instagram.com/carlosjr.ribas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:carlosjr.ribas@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlosjrribas98" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+---
 
+### 👋 Sobre mim
 
+Sou o Carlos, desenvolvedor com foco em back-end e integrações. Curto transformar ideias em sistemas funcionais, resolver problemas com código e conectar serviços que fazem a engrenagem rodar — com performance e eficiência.
 
+Gosto de pensar o desenvolvimento além do código: com arquitetura, testes e uma boa pitada de design de APIs. Atualmente, estou trabalhando com stacks que vão de **PHP e Laravel** a **Node.js, TypeScript, Golang** e serviços AWS.
+
+---
+
+### 🧰 Tecnologias com que trabalho
+
+- **Back-end**: PHP (Laravel, CodeIgniter), Node.js (NestJS, Express), Golang  
+- **Bancos**: PostgreSQL, MySQL, MongoDB, Redis  
+- **Frontend**: Vue.js, ReactJS, Livewire, templating (Handlebars, tmpl/tpl)  
+- **Infra**: Docker, Nginx, Linux, AWS (Lambda, etc), Cloudflare, DigitalOcean  
+
+---
+
+### 🚀 Projetos em destaque
+
+| Projeto | Descrição |
+|--------|----------|
+| [`kadu.tec.br`](https://kadu.tec.br) | Meu site pessoal e central de links para os outros projetos |
+| [`fin.kadu.tec.br`](https://fin.kadu.tec.br) | Simulador de investimentos CDB com rendimento personalizado |
+| [`sync.kadu.tec.br`](https://sync.kadu.tec.br) | App de vídeos sincronizados com chat em tempo real |
+
+---
+
+### 🌐 Me encontre por aí
+
+- 💼 [LinkedIn](https://linkedin.com/in/carlosjrribas98)  
+- 💬 carlosjr.ribas@gmail.com  
+- 💻 [GitHub](https://github.com/KaduHod)
+
+---
+
+<p align="center">
+  Feito com 💻, ☕ e alguns bugs resolvidos no grito.
+</p>
