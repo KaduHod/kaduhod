@@ -17,7 +17,7 @@ Gosto de pensar o desenvolvimento além do código: com arquitetura, testes e um
 
 - **Back-end**: PHP, Node.js, Golang  
 - **Bancos**: PostgreSQL, MySQL, MongoDB, Redis  
-- **Frontend**: Vue.js, ReactJS, Livewire, templating (Handlebars, tmpl/tpl)  
+- **Frontend**: Vue.js & ReactJS mas prefiro tempaltes de backend :)
 - **Infra**: Docker, Nginx, Linux, AWS, Cloudflare, DigitalOcean  
 
 ---
