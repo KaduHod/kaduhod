@@ -5,14 +5,6 @@
 
 ---
 
-### 👋 Sobre mim
-
-Sou o Carlos, desenvolvedor com foco em back-end e integrações. Curto transformar ideias em sistemas funcionais, resolver problemas com código e conectar serviços que fazem a engrenagem rodar — com performance e eficiência.
-
-Gosto de pensar o desenvolvimento além do código: com arquitetura, testes e uma boa pitada de design de APIs. Atualmente, estou trabalhando com stacks que vão de **PHP e Laravel** a **Node.js, TypeScript, Golang** e serviços AWS.
-
----
-
 ### 🧰 Tecnologias com que trabalho
 
 - **Back-end**: PHP, Node.js, Golang  
