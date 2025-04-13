@@ -5,7 +5,6 @@
 - **Bancos**: PostgreSQL, MySQL, MongoDB, Redis  
 - **Frontend**: Vue.js & ReactJS mas prefiro tempaltes de backend :)
 - **Infra**: Docker, Nginx, Linux, AWS, Cloudflare, DigitalOcean
-- 
 ---
 
 ### 🚀 Projetos em destaque
