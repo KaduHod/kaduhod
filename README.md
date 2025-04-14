@@ -14,6 +14,7 @@
 | [`kadu.tec.br`](https://kadu.tec.br) | Meu site pessoal e central de links para os outros projetos |
 | [`fin.kadu.tec.br`](https://fin.kadu.tec.br) | Simulador de investimentos CDB com rendimento personalizado |
 | [`sync.kadu.tec.br`](https://sync.kadu.tec.br) | App de vídeos sincronizados com chat em tempo real |
+| [`gymapi.kadu.tec.br`](https://gymapi.kafu.tec.br) | Api para consulta do sistema muscúlo esquelético |
 
 ---
 
