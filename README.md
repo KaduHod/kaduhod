@@ -3,7 +3,7 @@
 ### 🧰 Tecnologias com que trabalho
 - **Back-end**: PHP, Node.js, Golang  
 - **Bancos**: PostgreSQL, MySQL, MongoDB, Redis  
-- **Frontend**: Vue.js & ReactJS mas prefiro tempaltes de backend :)
+- **Frontend**: Vue.js & ReactJS mas prefiro templates de backend :)
 - **Infra**: Docker, Nginx, Linux, AWS, Cloudflare, DigitalOcean
 ---
 
