@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Carlos Alberto Ribas Junior</h1>
-<h3 align="center">Desenvolvedor, ex Personal Trainer, ex fumante, ex autista | Back End e um pouco de Infra</h3>
+<h3 align="center">Desenvolvedor (ex Personal Trainer, ex Fumante, ex Autista) | Back End e um pouco de Infra</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Busy%20coding%20🚀-brightgreen" alt="Status">
