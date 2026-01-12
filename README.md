@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Carlos Alberto Ribas Junior</h1>
-<h3 align="center">Desenvolvedor Full Stack | Especialista em Backend & Infraestrutura</h3>
+<h3 align="center">Desenvolvedor, ex Personal Trainer, ex fumante, ex autista | Back End e um pouco de Infra</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Busy%20coding%20🚀-brightgreen" alt="Status">
@@ -22,8 +22,8 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🎨 **Front-end**
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTMX](https://img.shields.io/badge/HTMX-3D3D3D?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ☁️ **Infraestrutura & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -36,16 +36,13 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🌐 **Portal Pessoal**
+### 🌐 **Site Pessoal**
 [**kadu.tec.br**](https://kadu.tec.br) - Meu hub pessoal com links para todos os projetos e informações
 
-### 💰 **Ferramentas Financeiras**
-[**fin.kadu.tec.br**](https://fin.kadu.tec.br) - Simulador avançado de investimentos em CDB com cálculos personalizados de rendimento
+### 💰 **Simular Júros Composto de CDB**
+[**fin.kadu.tec.br**](https://fin.kadu.tec.br) - Simulador de investimentos em CDB com cálculos personalizados de rendimento
 
-### 🎥 **Aplicações em Tempo Real**
-[**sync.kadu.tec.br**](https://sync.kadu.tec.br) - Plataforma de vídeos sincronizados com chat em tempo real para experiências compartilhadas
-
-### 🏋️ **APIs Especializadas**
+### 🏋️ **Gym Api**
 [**gymapi.kadu.tec.br**](https://gymapi.kadu.tec.br) - API completa para consulta do sistema músculo-esquelético com dados anatômicos detalhados
 
 ---
@@ -73,19 +70,8 @@
 
 ---
 
-## 💡 Filosofia de Desenvolvimento
-
-> *"Prefiro templates no backend com lógica robusta do que JavaScript desnecessário no frontend."*
-
-- 🔍 **Foco em performance e escalabilidade**
-- 🧩 **Arquiteturas limpas e manuteníveis**
-- 🚀 **Deploy automatizado e infra como código**
-- 🐛 **Debugging proativo (antes que vire grito!)**
-
----
-
 <p align="center">
-  <i>Feito com 💻, ☕ e soluções elegantes para problemas complexos.</i>
+  <i>💻</i>
 </p>
 
 <p align="center">
